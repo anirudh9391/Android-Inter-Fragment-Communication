@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">A3</string>
+    <string name="permission">To recieve Broadcasts</string>
+
+    <string-array name="points">
+        <item>Golden Gate Bridge</item>
+        <item>Alcatraz Island</item>
+        <item>Fisherman's Wharf</item>
+        <item>SFO Cable Car System</item>
+        <item>ChinaTown</item>
+        <item>Legion Of Honour</item>
+
+    </string-array>
+
+    <string-array name="website">
+        <item>http://www.goldengatebridge.org/</item>
+        <item>https://www.alcatrazcruises.com/</item>
+        <item>http://www.fishermanswharf.org/</item>
+        <item>https://www.sfcablecar.com/</item>
+        <item>http://www.sanfranciscochinatown.com/</item>
+        <item>https://legionofhonor.famsf.org/</item>
+
+    </string-array>
+</resources>

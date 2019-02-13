@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App-A1</string>
+    <string name="permission">Allow Application to Broadcast</string>
+</resources>

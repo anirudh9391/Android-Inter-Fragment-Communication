@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="permission">recieve broadcasts</string>
+</resources>
